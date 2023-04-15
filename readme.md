@@ -18,4 +18,3 @@ If you do use **git fetch** instead of **git pull**, make sure you remember to *
 
 ---
 
-Edit Test
