@@ -17,9 +17,3 @@ If you do use **git fetch** instead of **git pull**, make sure you remember to *
 **git commit --amend** add new indexed changes to the latest commit. With the **--amend commit**, you can add changes to or remove changes from the Git index. If no changes have been indexed, using the **--amend flag** will still prompt you to change the last commit comment.
 
 ---
-
-# _Sources_
-
-https://www.freecodecamp.org/news/git-pull-explained/#git-fetch-plus-git-merge
-
-https://github.com/git-guides/git-pull
