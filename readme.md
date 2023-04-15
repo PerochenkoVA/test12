@@ -1,4 +1,3 @@
-### Git help
 
 # git pull
 
